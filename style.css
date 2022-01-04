@@ -74,9 +74,10 @@ background-position:0% 65%;
 }
 #ex{
     margin: 0px;
-    position: absolute;
-    left: 650px;
-    top:auto;
+   
+    top: 100px;
+    text-align: center;
+
 }
 footer p{
     text-align: center;
