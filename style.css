@@ -45,7 +45,7 @@ p{
 }
 .flexible-conainer{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
